@@ -158,11 +158,11 @@ web: streamlit run app.py --server.port $PORT --server.address 0.0.0.0
 
 ## 👤 Author
 
-**Sai Sathwik**  
+**Ponaka Deekshitha**  
 B.Tech CSE (AI & ML) — NBKR Institute  
-📧 saisathwik112@gmail.com  
-🔗 [linkedin.com/in/saisathwik01](https://linkedin.com/in/saisathwik01)  
-💻 [github.com/ysaisathwik112](https://github.com/ysaisathwik112)
+📧 ponakadeekshithareddy@gmail.com  
+🔗 [linkedin.com/in/deekshitha-ponaka-a32518298](https://www.linkedin.com/in/deekshitha-ponaka-a32518298/)  
+💻 [github.com/Deekshitha1210](https://github.com/Deekshitha1210)
 
 ---
 
